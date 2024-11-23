@@ -44,3 +44,4 @@ function removeImage(index) {
 
 // Initialize gallery
 renderGallery();
+
