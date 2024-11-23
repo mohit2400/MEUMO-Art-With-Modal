@@ -4,9 +4,30 @@ const imageModal = new bootstrap.Modal(document.getElementById("imageModal"));
 
 // Sample images array
 const images = [
-  "img/Meumo - Make It.png",
-  "img/Meumo - Working.png",
-  "img/Meumo - Invisible Remix.png",
+  "img/magicstudio-art.jpg",
+  "img/magicstudio-art (1).jpg",
+  "img/magicstudio-art (2).jpg",
+  "img/magicstudio-art (3).jpg",
+  "img/magicstudio-art (4).jpg",
+  "img/magicstudio-art (5).jpg",
+  "img/magicstudio-art (6).jpg",
+  "img/magicstudio-art (7).jpg",
+  "img/magicstudio-art (8).jpg",
+  "img/magicstudio-art (9).jpg",
+  "img/magicstudio-art (10).jpg",
+  "img/magicstudio-art (11).jpg",
+  "img/magicstudio-art (12).jpg",
+  "img/magicstudio-art (13).jpg",
+  "img/magicstudio-art (14).jpg",
+  "img/magicstudio-art (15).jpg",
+  "img/magicstudio-art (16).jpg",
+  "img/magicstudio-art (17).jpg",
+  "img/magicstudio-art (18).jpg",
+  "img/magicstudio-art (19).jpg",
+  "img/magicstudio-art (20).jpg",
+  "img/magicstudio-art (21).jpg",
+  "img/magicstudio-art (22).jpg",
+  "img/magicstudio-art (23).jpg",
 ];
 
 // Function to render the gallery
@@ -44,4 +65,3 @@ function removeImage(index) {
 
 // Initialize gallery
 renderGallery();
-
